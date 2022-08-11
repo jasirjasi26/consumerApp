@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194112333289",
+    "project_id": "kiosk-cb18e",
+    "storage_bucket": "kiosk-cb18e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194112333289:android:3a1660b78886f308835778",
+        "android_client_info": {
+          "package_name": "com.optimist.kiosk_consumer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194112333289-3oepr0amed4al87cfleb8u9kf4o75t26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOEHAt0NFPCg3aTZfIFgzjLO04IhwVkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194112333289-3oepr0amed4al87cfleb8u9kf4o75t26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
